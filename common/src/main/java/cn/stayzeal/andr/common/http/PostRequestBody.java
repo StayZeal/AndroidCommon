@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-import cn.weidoo.baselib.utils.MyLog;
+import cn.stayzeal.andr.common.utils.MyLog;
 import okhttp3.MediaType;
 import okhttp3.Request;
 import okhttp3.RequestBody;
